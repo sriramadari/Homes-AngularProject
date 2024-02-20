@@ -1,0 +1,54 @@
+{
+    "location":[
+            {
+                "id": 1,
+                "name": "The Grove",
+                "city": "San Francisco",
+                "state": "CA",
+                "photo": "/assets/grove.jpg",
+                "availableUnits": 3,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 2,
+                "name": "The Palms",
+                "city": "Los Angeles",
+                "state": "CA",
+                "photo": "/assets/palms.jpg",
+                "availableUnits": 2,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 3,
+                "name": "The Pines",
+                "city": "Portland",
+                "state": "OR",
+                "photo": "/assets/pines.jpg",
+                "availableUnits": 1,
+                "wifi": false,
+                "laundry": true
+            },
+            {
+                "id": 4,
+                "name": "The Oaks",
+                "city": "Seattle",
+                "state": "WA",
+                "photo": "/assets/oaks.jpg",
+                "availableUnits": 4,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 5,
+                "name": "The Maples",
+                "city": "Austin",
+                "state": "TX",
+                "photo": "/assets/maples.jpg",
+                "availableUnits": 2,
+                "wifi": false,
+                "laundry": true
+            }
+        ]
+}
